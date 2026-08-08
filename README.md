@@ -35,3 +35,8 @@ g++ tetris.cpp -o tetris
 - Wall-kick handling on rotation near edges
 - "Next piece" preview queue
 - SFML graphics version
+
+## Gameplay
+<div align="center">
+  <img width="480" height="435" alt="tetris_gameplay" src="https://github.com/user-attachments/assets/37cfe87e-648e-42f5-9218-af463cb042cf" />
+</div>
